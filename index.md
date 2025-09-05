@@ -26,6 +26,19 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# This is Header 1
+## This is Header 2
+### And this is Header 3
+
+- Task 1
+- Task 2
+- Task 3
+
+1. A
+2. B
+3. C
+4. D
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
